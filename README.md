@@ -7,6 +7,7 @@ Welcome to my GitHub space! I'm passionate about blending creativity, logic, and
 🪷 Love turning ideas into clean, responsive web interfaces 
 🎍 Learning how machines can think (kind of)
 
+
 ### 💬 Let's Connect!
 
 - 🍄‍🟫 [Portfolio](https://bit.ly/portfolio-sindi)
