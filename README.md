@@ -1,6 +1,5 @@
 ## Hi, I'm Sindi Rella! ✨
 
-📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🎨 Frontend Developer 
 Welcome to my GitHub space! I'm passionate about blending creativity, logic, and data to build meaningful digital experiences. Whether it's crafting sleek user interfaces, experimenting with ML models, or uncovering insights through data! Oh and I'm always up for a challenge!
 
 🦩 Computer Science Student on a journey to decode the digital world  
