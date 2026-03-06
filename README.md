@@ -11,7 +11,7 @@ Welcome to my GitHub space! I'm passionate about blending creativity, logic, and
 
 ### 💬 Let's Connect!
 
-- 🍄‍🟫 [Portfolio](https://bit.ly/portfolio-sindi)
+- 🍄‍🟫 [Portfolio](https://www.notion.so/Personal-Portfolio-1fe273a90942805c94b3ea41a1ad0393?source=copy_link)
 - 🍄 [Kaggle](https://www.kaggle.com/sindi1rella)
 
 
